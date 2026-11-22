@@ -1,0 +1,6 @@
+# Core estimator
+numpy>=1.24
+# Required only for tools/degrade_euroc.py (organizer degradation utility)
+pandas>=2.0
+# Optional 3D trajectory playback viewer
+matplotlib>=3.7

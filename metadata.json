@@ -1,0 +1,15 @@
+{
+  "samples": 3001,
+  "duration_s": 15.0,
+  "nominal_rate_hz": 200.00495922941204,
+  "timestamp_gaps": 0,
+  "rejected_or_clipped_events": 0,
+  "stationary_samples": 109,
+  "blind_detected": false,
+  "blind_start_index": -1,
+  "output_rows": 3001,
+  "algorithm": "Sentinel-6D adaptive inertial estimator",
+  "notes": "IMU-only translation and yaw are not fully observable; trajectory is an estimate, not a globally corrected ground truth.",
+  "runtime_ms": 222.565,
+  "input": "data.csv"
+}
